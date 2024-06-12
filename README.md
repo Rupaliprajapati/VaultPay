@@ -1,4 +1,4 @@
-# Paytm Project
+# Paytm 
 
 This is a responsive web application based on the MERN stack (MongoDB, Express.js, React.js, Node.js) that mimics the core functionality of Paytm. The application includes the following pages:
 - Dashboard
