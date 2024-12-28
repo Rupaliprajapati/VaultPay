@@ -95,16 +95,4 @@ This is a responsive web application based on the MERN stack (MongoDB, Express.j
 - **GET** `/api/dashboard` - Fetch user dashboard data (Protected route)
 - **POST** `/api/send-money` - Send money to another user (Protected route)
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
-3. Commit your Changes (`git commit -m 'Add Some Feature'`)
-4. Push to the Branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
