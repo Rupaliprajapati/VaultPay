@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "9ed3a4c6-d891-42ad-81ef-b7206e885fd0",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1729593414755"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.psgke.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://admin:Rupali%40%40123@cluster0.psgke.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}

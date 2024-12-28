@@ -27,7 +27,7 @@ export const Signup = () => {
         }} placeholder="Doe" label={"Last Name"} />
         <InputBox onChange={e => {
           setUsername(e.target.value);
-        }} placeholder="kshitiz@gmail.com" label={"Email"} />
+        }} placeholder="rupali@gmail.com" label={"Email"} />
         <InputBox onChange={(e) => {
           setPassword(e.target.value)
         }} placeholder="123456" label={"Password"} />
